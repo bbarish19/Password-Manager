@@ -1,6 +1,7 @@
 # Password-Manager
 
 Overview
+
 This application allows you to securely manage and update your passwords. It is designed to store passwords in a safe and encrypted manner, with an easy-to-use graphical interface.
 
 Features
